@@ -1,0 +1,15 @@
+law,planet,metric_1_name,metric_1_value,metric_2_name,metric_2_value,metric_3_name,metric_3_value
+Law 1,Mercury,semi_major_axis_a_AU,0.3871428966522217,eccentricity_e,0.2027212679386139,plane_thickness_std,1.0207173772869282e-06
+Law 1,Venus,semi_major_axis_a_AU,0.723635733127594,eccentricity_e,0.001843221252784133,plane_thickness_std,2.4241480787168257e-06
+Law 1,Earth,semi_major_axis_a_AU,1.0001373291015625,eccentricity_e,0.015531258657574654,plane_thickness_std,3.3912169783434365e-06
+Law 1,Mars,semi_major_axis_a_AU,1.5233334302902222,eccentricity_e,0.06706361472606659,plane_thickness_std,4.1624848563515116e-06
+Law 1,Jupiter,semi_major_axis_a_AU,5.078293800354004,eccentricity_e,0.9133626818656921,plane_thickness_std,3.8591110751440283e-07
+Law 1,Saturn,semi_major_axis_a_AU,4.790514945983887,eccentricity_e,0.9908127188682556,plane_thickness_std,2.0556677554850467e-05
+Law 2,Mars,mean_swept_area,0.010570297949016094,relative_area_variation_percent,0.002067203400656581,relative_angular_momentum_variation_percent,0.002073048846796155
+Law 3,Mercury,semi_major_axis_a_AU,0.3871428966522217,orbital_period_T_years,0.2408467,T2_over_a3,0.9996949889388898
+Law 3,Venus,semi_major_axis_a_AU,0.723635733127594,orbital_period_T_years,0.61519726,T2_over_a3,0.9987775401442308
+Law 3,Earth,semi_major_axis_a_AU,1.0001373291015625,orbital_period_T_years,1.0000174,T2_over_a3,0.9996229683303338
+Law 3,Mars,semi_major_axis_a_AU,1.5233334302902222,orbital_period_T_years,1.8808476,T2_over_a3,1.0007423910185302
+Law 3,Jupiter,semi_major_axis_a_AU,5.078293800354004,orbital_period_T_years,11.862615,T2_over_a3,1.0745024427853604
+Law 3,Saturn,semi_major_axis_a_AU,4.790514945983887,orbital_period_T_years,29.447498,T2_over_a3,7.88769650029599
+Law 3,ALL,mean_T2_over_a3,2.1601728052522224,relative_std_percent,118.58181500454258,loglog_slope,1.7349014158508749
